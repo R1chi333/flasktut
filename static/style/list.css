@@ -1,0 +1,18 @@
+
+.nameTags{
+    width: 12vw;
+    margin: 2vw;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    text-align: center;
+    align-items: center; 
+    padding: 2vw;
+}
+.con{
+    align-items: center; 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
+}
